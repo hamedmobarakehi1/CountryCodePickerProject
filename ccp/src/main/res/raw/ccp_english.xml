@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data>
     <messages>
-        <ccp_dialog_title translation="Select a country" />
-        <ccp_dialog_search_hint_message translation="Search..." />
-        <ccp_dialog_no_result_ack_message translation="Results not found" />
+        <ccp_dialog_title translation="یک کشور را انتخاب کنید" />
+        <ccp_dialog_search_hint_message translation="جستجو" />
+        <ccp_dialog_no_result_ack_message translation="نتایج یافت نشد" />
     </messages>
 
     <countries>
